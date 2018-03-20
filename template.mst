@@ -1,0 +1,11 @@
+{{#docentes}}
+<div class="resultItem">
+	<h2 class="title">{{title}}</h3>
+	<p class="nombre">{{nombre}}</p>
+	<p class="apellido">{{apellido}}</p>
+	<p class="cedula">{{cedula}}</p>
+	<p class="celular">{{celular}}</p>
+	<p class="asignaturaid">{{asignaturaid}}</p>
+	
+</div>
+{{/docentes}}
